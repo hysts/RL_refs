@@ -74,6 +74,21 @@
 
 
 
+### Video
+
+* [Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017]( http://videolectures.net/deeplearning2017_montreal/ )
+
+* [Deep Reinforcement Learning Through Policy Optimization]( https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization )
+    * Pieter Abbeel
+    * Jan 23, 2017
+
+* [Deterministic Policy Gradient Algorithms]( http://techtalks.tv/talks/deterministic-policy-gradient-algorithms/61098/ )
+    * David Silver
+    * DDPG
+
+
+
+
 ## Blog
 
 * [Deep Reinforcement Learning: Pong from Pixels]( http://karpathy.github.io/2016/05/31/rl/ )
