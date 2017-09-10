@@ -86,6 +86,10 @@
     * David Silver
     * DDPG
 
+* [Deep Reinforcement Learning]( http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/ )
+    * Pieter Abbeel
+    * Aug. 23, 2016
+
 
 
 
