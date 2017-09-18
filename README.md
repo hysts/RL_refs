@@ -180,6 +180,24 @@
 
 
 
+## Papers
+
+### Survey
+
+* Deep Reinforcement Learning: An Overview
+    * https://arxiv.org/abs/1701.07274
+* A Brief Survey of Deep Reinforcement Learning
+    * https://arxiv.org/abs/1708.05866
+* Deep Learning for Video Game Playing
+    * https://arxiv.org/abs/1708.07902
+
+
+
+
+
+
+
+
 
 
 
