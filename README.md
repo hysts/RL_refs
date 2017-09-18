@@ -105,6 +105,16 @@
     * Arthur Juliani
     * Aug 25, 2016
 
+* [Before AlphaGo there was TD-Gammon]( https://medium.com/jim-fleming/before-alphago-there-was-td-gammon-13deff866197 )
+    * Jim Fleming
+    * Apr 4, 2016
+    * https://github.com/fomorians/td-gammon
+
+* [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow]( https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf )
+    * Arthur Juliani
+    * Jan 30
+    * https://github.com/awjuliani/Meta-RL
+
 
 
 
