@@ -1,7 +1,7 @@
-# RL_refs
+# RL references
 
 
-## Book
+## Books
 
 * [Reinforcement Learning: An Introduction (Second Edition, in progress)]( http://incompleteideas.net/sutton/book/the-book-2nd.html )
     * Richard S. Sutton and Andrew G. Barto
@@ -17,7 +17,7 @@
 
 
 
-## Lecture
+## Lectures
 
 * [UCL Course on RL]( http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html )
     * David Silver
@@ -74,7 +74,7 @@
 
 
 
-### Video
+### Videos
 
 * [Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017]( http://videolectures.net/deeplearning2017_montreal/ )
 
@@ -93,7 +93,7 @@
 
 
 
-## Blog
+## Blogs
 
 * [Deep Reinforcement Learning: Pong from Pixels]( http://karpathy.github.io/2016/05/31/rl/ )
     * Andrej Karpathy
@@ -118,7 +118,7 @@
 
 
 
-## Demo
+## Demos
 
 * [REINFORCEjs]( http://cs.stanford.edu/people/karpathy/reinforcejs/waterworld.html )
     * https://github.com/karpathy/reinforcejs
@@ -173,7 +173,7 @@
 
 
 
-## Library
+## Libraries
 
 * [Keras-RL]( https://github.com/matthiasplappert/keras-rl )
 
@@ -182,7 +182,7 @@
 
 
 
-## Code
+## Codes
 
 
 
