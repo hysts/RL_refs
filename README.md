@@ -134,12 +134,11 @@
 
 ## Environment
 
+* [ALE]( https://github.com/mgbellemare/Arcade-Learning-Environment )
+    * http://www.arcadelearningenvironment.org/
 
-* [ALE]( http://www.arcadelearningenvironment.org/ )
-    * https://github.com/mgbellemare/Arcade-Learning-Environment
-
-* [OpenAI Gym]( https://gym.openai.com/ )
-    * https://github.com/openai/gym
+* [OpenAI Gym]( https://github.com/openai/gym )
+    * https://gym.openai.com/
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
         * APRIL 27, 2016
 
@@ -157,8 +156,8 @@
     * [Open-sourcing DeepMind Lab]( https://deepmind.com/blog/open-sourcing-deepmind-lab/ )
         * Saturday, 3 December 2016
 
-* [OpenAI Universe]( https://universe.openai.com/ )
-    * https://github.com/openai/universe
+* [OpenAI Universe]( https://github.com/openai/universe )
+    * https://universe.openai.com/
     * [Universe]( https://blog.openai.com/universe/ )
         * DECEMBER 5, 2016
 
@@ -170,6 +169,7 @@
     * https://github.com/Blizzard/s2client-proto
     * [DeepMind and Blizzard open StarCraft II as an AI research environment]( https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/ )
         * Wednesday, 9 August 2017
+
 
 
 
