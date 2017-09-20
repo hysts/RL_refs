@@ -134,10 +134,19 @@
 
 ## Environment
 
+
+* [ALE]( http://www.arcadelearningenvironment.org/ )
+    * https://github.com/mgbellemare/Arcade-Learning-Environment
+
 * [OpenAI Gym]( https://gym.openai.com/ )
     * https://github.com/openai/gym
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
         * APRIL 27, 2016
+
+* [Project Malmö]( https://github.com/Microsoft/malmo )
+    * https://www.microsoft.com/en-us/research/project/project-malmo/
+    * [Project Malmo, which lets researchers use Minecraft for AI research, makes public debut]( https://blogs.microsoft.com/ai/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/ )
+        * Jul 7, 2016
 
 * [RLE]( https://github.com/nadavbh12/Retro-Learning-Environment )
     * [gym-rle]( https://github.com/nadavbh12/gym-rle )
@@ -161,10 +170,6 @@
     * https://github.com/Blizzard/s2client-proto
     * [DeepMind and Blizzard open StarCraft II as an AI research environment]( https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/ )
         * Wednesday, 9 August 2017
-
-* [ALE]( http://www.arcadelearningenvironment.org/ )
-    * https://github.com/mgbellemare/Arcade-Learning-Environment
-
 
 
 
