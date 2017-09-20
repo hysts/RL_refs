@@ -139,6 +139,15 @@
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
         * APRIL 27, 2016
 
+* [RLE]( https://github.com/nadavbh12/Retro-Learning-Environment )
+    * [gym-rle]( https://github.com/nadavbh12/gym-rle )
+    * https://arxiv.org/abs/1611.02205
+        * Mon, 7 Nov 2016
+
+* [DeepMind Lab]( https://github.com/deepmind/lab )
+    * [Open-sourcing DeepMind Lab]( https://deepmind.com/blog/open-sourcing-deepmind-lab/ )
+        * Saturday, 3 December 2016
+
 * [OpenAI Universe]( https://universe.openai.com/ )
     * https://github.com/openai/universe
     * [Universe]( https://blog.openai.com/universe/ )
@@ -147,10 +156,6 @@
 * [Roboschool]( https://github.com/openai/roboschool )
     * [Roboschool]( https://blog.openai.com/roboschool/ )
         * MAY 15, 2017
-
-* [DeepMind Lab]( https://github.com/deepmind/lab )
-    * [Open-sourcing DeepMind Lab]( https://deepmind.com/blog/open-sourcing-deepmind-lab/ )
-        * Saturday, 3 December 2016
 
 * [PySC2 - StarCraft II Learning Environment]( https://github.com/deepmind/pysc2 )
     * https://github.com/Blizzard/s2client-proto
