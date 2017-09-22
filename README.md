@@ -136,6 +136,8 @@
 
 * [ALE]( https://github.com/mgbellemare/Arcade-Learning-Environment )
     * http://www.arcadelearningenvironment.org/
+    * https://arxiv.org/abs/1207.4708
+        * Thu, 19 Jul 2012
 
 * [OpenAI Gym]( https://github.com/openai/gym )
     * https://gym.openai.com/
