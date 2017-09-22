@@ -142,6 +142,11 @@
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
         * APRIL 27, 2016
 
+* [ViZDoom]( https://github.com/mwydmuch/ViZDoom )
+    * http://vizdoom.cs.put.edu.pl/
+    * https://arxiv.org/abs/1605.02097
+        * Fri, 6 May 2016
+
 * [Project Malmö]( https://github.com/Microsoft/malmo )
     * https://www.microsoft.com/en-us/research/project/project-malmo/
     * [Project Malmo, which lets researchers use Minecraft for AI research, makes public debut]( https://blogs.microsoft.com/ai/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/ )
