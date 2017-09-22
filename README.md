@@ -176,6 +176,8 @@
     * https://github.com/Blizzard/s2client-proto
     * [DeepMind and Blizzard open StarCraft II as an AI research environment]( https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/ )
         * Wednesday, 9 August 2017
+    * https://arxiv.org/abs/1708.04782
+        * Wed, 16 Aug 2017
 
 
 
