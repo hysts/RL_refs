@@ -155,11 +155,16 @@
     * https://gym.openai.com/
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
         * APRIL 27, 2016
+    * https://arxiv.org/abs/1606.01540
+        * Sun, 5 Jun 2016
 
 * [ViZDoom]( https://github.com/mwydmuch/ViZDoom )
     * http://vizdoom.cs.put.edu.pl/
     * https://arxiv.org/abs/1605.02097
         * Fri, 6 May 2016
+    * related
+        * [Freedoom]( https://github.com/freedoom/freedoom )
+            * https://freedoom.github.io/
 
 * [Project Malmö]( https://github.com/Microsoft/malmo )
     * https://www.microsoft.com/en-us/research/project/project-malmo/
@@ -179,6 +184,8 @@
 * [DeepMind Lab]( https://github.com/deepmind/lab )
     * [Open-sourcing DeepMind Lab]( https://deepmind.com/blog/open-sourcing-deepmind-lab/ )
         * Saturday, 3 December 2016
+    * https://arxiv.org/abs/1612.03801
+        * Mon, 12 Dec 2016
 
 * [OpenAI Universe]( https://github.com/openai/universe )
     * https://universe.openai.com/
