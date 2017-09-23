@@ -149,6 +149,7 @@
         * https://github.com/fmirus/torcs-1.3.7
         * [TORCS robot tutorial]( http://www.berniw.org/tutorials/robot/tutorial.html )
         * [T.O.R.C.S. tutorial]( http://anqil.people.clemson.edu/blog.html )
+        * http://xed.ch/h/torcs.html
 
 * [OpenAI Gym]( https://github.com/openai/gym )
     * https://gym.openai.com/
