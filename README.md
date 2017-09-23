@@ -139,6 +139,16 @@
     * https://arxiv.org/abs/1207.4708
         * Thu, 19 Jul 2012
 
+* [TORCS]( http://torcs.sourceforge.net/ )
+    * related
+        * https://arxiv.org/abs/1304.1672
+            * Fri, 5 Apr 2013
+        * [vtorcs]( https://github.com/giuse/vtorcs )
+        * [SnakeOil]( http://xed.ch/project/snakeoil/index.html )
+        * [Gym-TORCS]( https://github.com/ugo-nama-kun/gym_torcs )
+        * [TORCS robot tutorial]( http://www.berniw.org/tutorials/robot/tutorial.html )
+        * [T.O.R.C.S. tutorial]( http://anqil.people.clemson.edu/blog.html )
+
 * [OpenAI Gym]( https://github.com/openai/gym )
     * https://gym.openai.com/
     * [OpenAI Gym Beta]( https://blog.openai.com/openai-gym-beta/ )
