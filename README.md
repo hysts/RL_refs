@@ -146,6 +146,7 @@
         * [vtorcs]( https://github.com/giuse/vtorcs )
         * [SnakeOil]( http://xed.ch/project/snakeoil/index.html )
         * [Gym-TORCS]( https://github.com/ugo-nama-kun/gym_torcs )
+        * https://github.com/fmirus/torcs-1.3.7
         * [TORCS robot tutorial]( http://www.berniw.org/tutorials/robot/tutorial.html )
         * [T.O.R.C.S. tutorial]( http://anqil.people.clemson.edu/blog.html )
 
@@ -168,6 +169,11 @@
     * [gym-rle]( https://github.com/nadavbh12/gym-rle )
     * https://arxiv.org/abs/1611.02205
         * Mon, 7 Nov 2016
+
+* [TorchCraft]( https://github.com/TorchCraft/TorchCraft )
+    * https://arxiv.org/abs/1611.00625
+        * Tue, 1 Nov 2016
+    * [StarData]( https://github.com/TorchCraft/StarData )
 
 * [DeepMind Lab]( https://github.com/deepmind/lab )
     * [Open-sourcing DeepMind Lab]( https://deepmind.com/blog/open-sourcing-deepmind-lab/ )
