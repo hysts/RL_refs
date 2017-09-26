@@ -212,6 +212,12 @@
 
 * [rllab]( https://github.com/rll/rllab )
 
+* [Unity ML]( https://github.com/Unity-Technologies/ml-agents )
+    * [Introducing: Unity Machine Learning Agents]( https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/ )
+        * September 19, 2017
+
+
+
 
 
 
