@@ -112,8 +112,12 @@
 
 * [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow]( https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf )
     * Arthur Juliani
-    * Jan 30
+    * Jan 30, 2017
     * https://github.com/awjuliani/Meta-RL
+
+* [DeepMind’s PathNet: A Modular Deep Learning Architecture for AGI]( https://medium.com/intuitionmachine/pathnet-a-modular-deep-learning-architecture-for-agi-5302fcf53273 )
+    * Carlos E. Perez
+    * Feb 4, 2017
 
 
 
