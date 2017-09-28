@@ -221,6 +221,8 @@
 * [Keras-RL]( https://github.com/matthiasplappert/keras-rl )
 
 * [rllab]( https://github.com/rll/rllab )
+    * https://arxiv.org/abs/1604.06778
+        * Fri, 22 Apr 2016
 
 * [Unity ML]( https://github.com/Unity-Technologies/ml-agents )
     * [Introducing: Unity Machine Learning Agents]( https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/ )
