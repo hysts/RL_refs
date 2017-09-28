@@ -175,6 +175,12 @@
     * [Project Malmo, which lets researchers use Minecraft for AI research, makes public debut]( https://blogs.microsoft.com/ai/2016/07/07/project-malmo-lets-researchers-use-minecraft-ai-research-makes-public-debut/ )
         * Jul 7, 2016
 
+* [Industrial Benchmark]( https://github.com/siemens/industrialbenchmark )
+    * https://arxiv.org/abs/1610.03793
+        * Wed, 12 Oct 2016
+    * https://arxiv.org/abs/1709.09480
+        * Wed, 27 Sep 2017
+
 * [RLE]( https://github.com/nadavbh12/Retro-Learning-Environment )
     * [gym-rle]( https://github.com/nadavbh12/gym-rle )
     * https://arxiv.org/abs/1611.02205
