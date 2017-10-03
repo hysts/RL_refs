@@ -206,6 +206,11 @@
     * [Roboschool]( https://blog.openai.com/roboschool/ )
         * MAY 15, 2017
 
+* [ParlAI]( https://github.com/facebookresearch/ParlAI )
+    * http://parl.ai/
+    * https://arxiv.org/abs/1705.06476
+        * Thu, 18 May 2017
+
 * [PySC2 - StarCraft II Learning Environment]( https://github.com/deepmind/pysc2 )
     * https://github.com/Blizzard/s2client-proto
     * [DeepMind and Blizzard open StarCraft II as an AI research environment]( https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/ )
