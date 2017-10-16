@@ -218,6 +218,11 @@
     * https://arxiv.org/abs/1708.04782
         * Wed, 16 Aug 2017
 
+* [Competitive Multi-Agent Environments]( https://github.com/openai/multiagent-competition )
+    * https://sites.google.com/view/multi-agent-competition
+    * https://arxiv.org/abs/1710.03748
+        * 10 Oct 2017
+
 
 
 
