@@ -119,6 +119,11 @@
     * Carlos E. Perez
     * Feb 4, 2017
 
+* [Introduction to reinforcement learning and OpenAI Gym]( https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym )
+    * Justin Francis
+    * July 13, 2017
+    * https://github.com/wagonhelm/Reinforcement-Learning-Introduction/blob/master/Reinforcement%20Learning%20Introduction.ipynb
+
 
 
 
