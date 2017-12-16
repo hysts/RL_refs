@@ -124,6 +124,10 @@
     * July 13, 2017
     * https://github.com/wagonhelm/Reinforcement-Learning-Introduction/blob/master/Reinforcement%20Learning%20Introduction.ipynb
 
+* [AlphaGo Zero - How and Why it Works]( http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/ )
+    * Tim Wheeler
+    * November 2, 2017
+
 
 
 
@@ -227,6 +231,21 @@
     * https://sites.google.com/view/multi-agent-competition
     * https://arxiv.org/abs/1710.03748
         * 10 Oct 2017
+
+* [HoME: a Household Multimodal Environment]( https://github.com/HoME-Platform/home-platform )
+    * https://home-platform.github.io/
+    * https://arxiv.org/abs/1711.11017
+        * 29 Nov 2017
+
+* [MINOS: Multimodal Indoor Simulator]( https://github.com/minosworld/minos )
+    * https://minosworld.github.io/
+    * https://arxiv.org/abs/1712.03931
+        * 11 Dec 2017
+
+* [AI2-THOR: Photorealistic Interactive Environments for AI Agents]( https://github.com/allenai/ai2thor )
+    * http://ai2thor.allenai.org/
+    * https://arxiv.org/abs/1712.05474
+        * 14 Dec 2017
 
 
 
