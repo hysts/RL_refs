@@ -247,6 +247,14 @@
     * https://arxiv.org/abs/1712.05474
         * 14 Dec 2017
 
+* [Ray RLLib]( https://github.com/ray-project/ray )
+    * https://arxiv.org/abs/1712.09381
+        * 26 Dec 2017
+
+* [The DeepMind Control Suite and Control Package]( https://github.com/deepmind/dm_control )
+    * https://arxiv.org/abs/1801.00690
+        * 2 Jan 2018
+
 
 
 
