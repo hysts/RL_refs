@@ -255,6 +255,9 @@
     * https://arxiv.org/abs/1801.00690
         * 2 Jan 2018
 
+* [House3D: A Rich and Realistic 3D Environment]( https://github.com/facebookresearch/House3D )
+    * https://arxiv.org/abs/1801.02209
+        * 7 Jan 2018
 
 
 
