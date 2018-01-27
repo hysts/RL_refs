@@ -220,6 +220,10 @@
     * https://arxiv.org/abs/1705.06476
         * Thu, 18 May 2017
 
+* [ELF: An Extensive, Lightweight and Flexible Platform for Game Research]( https://github.com/facebookresearch/ELF )
+    * https://arxiv.org/abs/1707.01067
+        * Tue, 4 Jul 2017
+
 * [PySC2 - StarCraft II Learning Environment]( https://github.com/deepmind/pysc2 )
     * https://github.com/Blizzard/s2client-proto
     * [DeepMind and Blizzard open StarCraft II as an AI research environment]( https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/ )
