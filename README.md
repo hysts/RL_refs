@@ -3,7 +3,7 @@
 
 ## Books
 
-* [Reinforcement Learning: An Introduction (Second Edition, in progress)]( http://incompleteideas.net/sutton/book/the-book-2nd.html )
+* [Reinforcement Learning: An Introduction (Second Edition, in progress)]( http://incompleteideas.net/book/the-book-2nd.html )
     * Richard S. Sutton and Andrew G. Barto
     * https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
